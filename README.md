@@ -141,8 +141,7 @@ A table displays: index, URL, parameter names, and a quick suspicious indicator.
 
 **MIT License**
 
-**Copyright (c) 2025 Bangladesh <img width="500" height="500" alt="1000267554" src="https://github.com/user-attachments/assets/59eca82d-7288-4fcf-8abb-6c5cdc6c4c9c" />
-Cyber Squad**
+**Copyright (c) 2025 Bangladesh Cyber Squad**
 
 
 
