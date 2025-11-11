@@ -100,22 +100,13 @@ A rich table displays: index, URL, parameter names, and a quick suspicious indic
 
 ---
 
-## Developer
+## OWNER -info
 
-**Adi (BLACK ZER0)**
+**Developer ➤ BLACK ZER0**
+
+**Author ➤ BANGLADESH CYBER SQUAD**
 
 Project: Para-M-Scope — Parameter Mapping Scope
 
 ---
 
-## Optional additions (available on request)
-
-* PDF/HTML report export
-* More advanced XSS/SQL regex detection
-* WAF/Cloudflare detection and reporting
-* Parameter fuzzing and payload testing
-* Additional User-Agent strings and fingerprinting
-
----
-
-If you want, I can add contribution guidelines, badges, screenshots, or a LICENSE file. Let me know which extras you want and I’ll update the README.
