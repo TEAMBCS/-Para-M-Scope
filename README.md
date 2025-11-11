@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://i.postimg.cc/FsXNGsQT/Para-M-Scope.jpg" width="380" alt="FIRE-EYE Logo">
+</p>
+
+<p align="center">
+  🚀 Powered by <b> BANGLADESH CYBER SQUAD</b><br>
+  📆 Year: 2025
+</p>
 # Para-M-Scope
 
 **Next-Generation Parameter Mapping & Discovery Engine**
