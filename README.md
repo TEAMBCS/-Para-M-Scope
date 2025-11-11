@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  ⚙️ Built with ❤️ by <b>BLACK ZERO </b>
   🚀 Powered by <b> BANGLADESH CYBER SQUAD</b><br>
   📆 Year: 2025
 </p>
@@ -136,11 +137,8 @@ A table displays: index, URL, parameter names, and a quick suspicious indicator.
 
 ---
 
-## OWNER -info
+##  -info
 
-**Developer ➤ BLACK ZER0**
-
-**Author ➤ BANGLADESH CYBER SQUAD**
 
 
 ---
