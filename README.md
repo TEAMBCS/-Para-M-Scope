@@ -6,6 +6,7 @@
   🚀 Powered by <b> BANGLADESH CYBER SQUAD</b><br>
   📆 Year: 2025
 </p>
+
 ---
 
 # Para-M-Scope
@@ -33,7 +34,6 @@ Para-M-Scope (Parameter Mapping Scope) is an asynchronous parameter discovery to
 ## Installation
 
 ```bash
-# Update package lists and install Python if needed (Termux example)
 pkg update -y
 pkg install python -y
 pkg install python3 -y
@@ -55,7 +55,7 @@ python3 para-m-scope.py --help
 ```
 
 ```bash
-python .py https://example.com --depth 2 --domain-only --output results.json
+python para-m-scope.py https://example.com --depth 2 --domain-only --output results.json
 ```
 
 ### Common options
@@ -77,13 +77,13 @@ python .py https://example.com --depth 2 --domain-only --output results.json
 ### Logger entry example
 
 ```
-[2025-01-01]-[19:22:10] [INFO]  | SCOPING depth=1 -> https://example.com
-[2025-01-01]-[19:22:11] [PARAMS] | https://example.com/?id=10 -> ['id']
+[2025-01-01]-[19:22:10] [INFO]  | [SCOPING] depth=1 -> https://example.com
+[2025-01-01]-[19:22:11] [INFO]  | [PARAMS] https://example.com/?id=10 -> ['id']
 ```
 
 ### Table result
 
-A rich table displays: index, URL, parameter names, and a quick suspicious indicator.
+A table displays: index, URL, parameter names, and a quick suspicious indicator.
 
 ### JSON output example
 
@@ -109,7 +109,7 @@ A rich table displays: index, URL, parameter names, and a quick suspicious indic
 3. Normalize links and detect query strings with parameters.
 4. Record parameterized URLs and run simple suspicious-value checks.
 5. Optionally follow discovered links up to the configured depth.
-6. Present results in a rich table and optionally save as JSON.
+6. Present results in a table and optionally save as JSON.
 
 ---
 
@@ -120,13 +120,28 @@ A rich table displays: index, URL, parameter names, and a quick suspicious indic
 
 ---
 
+## 🖼️ MENU PIC
+<p align="center">
+  <img src="https://i.postimg.cc/WpBMzqJ0/tool-menu.jpg" alt="pic" width="45%" />
+</p>
+
+---
+
+## 🖼️ DEMO PIC
+<p align="center">
+  <img src="https://i.postimg.cc/Znpvpjy6/tool-demo1.jpg" alt="pic" width="45%" />
+  &nbsp;&nbsp;
+  <img src="https://i.postimg.cc/X7KyvHWb/tool-demo2.jpg" alt="pic1" width="45%" />
+</p>
+
+---
+
 ## OWNER -info
 
 **Developer ➤ BLACK ZER0**
 
 **Author ➤ BANGLADESH CYBER SQUAD**
 
-Project: Para-M-Scope — Parameter Mapping Scope
 
 ---
 
