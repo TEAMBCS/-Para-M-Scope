@@ -43,7 +43,7 @@ git clone https://github.com/TEAMBCS/Para-M-Scope.git
 cd Para-M-Scope
 chmod +x *
 chmod 777 *
-pip install -r para-m-scope.txt
+pip3 install -r para-m-scope.txt
 python3 para-m-scope.py --help
 ```
 
