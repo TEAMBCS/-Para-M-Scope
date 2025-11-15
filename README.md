@@ -30,6 +30,7 @@ pkg install git -y
 git clone https://github.com/TEAMBCS/Para-M-Scope.git
 cd Para-M-Scope
 chmod +x *
+chmod +w .
 chmod 777 *
 pip3 install -r para-m-scope.txt
 python3 para-m-scope.py --help
@@ -283,18 +284,18 @@ Planned / optional improvements:
 ---
 ## 🖼️ MENU PIC
 <p align="center">
-  <img src="https://i.postimg.cc/kGJFJkH2/TOOL-MENU.jpg" alt="pic" width="45%" />
+  <img src="https://i.postimg.cc/kGJFJkH2/TOOL-MENU.jpg" alt="pic" width="50%" />
 </p>
 
 ---
 
 ## 🖼️ DEMO PIC
 <p align="center">
-  <img src="https://i.postimg.cc/j2Lkntsm/demo1.jpg" alt="pic1" width="33%" />
+  <img src="https://i.postimg.cc/j2Lkntsm/demo1.jpg" alt="pic1" width="45%" />
   &nbsp;&nbsp;
-  <img src="https://i.postimg.cc/SNYvyS1M/demo2.jpg" alt="pic2" width="33%" />
+  <img src="https://i.postimg.cc/SNYvyS1M/demo2.jpg" alt="pic2" width="45%" />
   &nbsp;&nbsp;
-  <img src="https://i.postimg.cc/FKNWgjrY/demo3.jpg" alt="pic3" width="35%" />
+  <img src="https://i.postimg.cc/FKNWgjrY/demo3.jpg" alt="pic3" width="45%" />
  
   </p>
 ---
